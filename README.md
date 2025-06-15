@@ -1,5 +1,8 @@
-🐍 Snake Game in C++
-A classic Snake game implemented in C++ using object-oriented programming (OOP) principles. Features include:
+##🐍 Snake Game in C++
+
+A classic Snake game implemented in C++ using object-oriented programming (OOP) principles. 
+
+Features include:
 
 🎮 Real-time keyboard controls (WASD or arrow keys)
 
