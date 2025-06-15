@@ -1,4 +1,4 @@
-##🐍 Snake Game in C++
+🐍 Snake Game in C++
 
 A classic Snake game implemented in C++ using object-oriented programming (OOP) principles. 
 
