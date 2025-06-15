@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ff63f4f5-a58d-4957-a963-5d2e403f027a)
+
 🐍 Snake Game in C++
 
 A classic Snake game implemented in C++ using object-oriented programming (OOP) principles. 
