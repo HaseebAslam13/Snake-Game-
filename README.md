@@ -1,15 +1,21 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mLqiHWLE)
-# COE2SH4 - Course Project Template
-Course Project
+🐍 Snake Game in C++
+A classic Snake game implemented in C++ using object-oriented programming (OOP) principles. Features include:
 
-You must watch the briefing video and read through the manual to engage in the development activities.
+🎮 Real-time keyboard controls (WASD or arrow keys)
 
+� Dynamic snake movement & growth when eating food
 
-Section: [C01]
+⚠️ Collision detection (walls & self)
 
-Team Information
-Member 1 MacID: [abbas50]
-Member 1 StudentID: [400529282]
+📊 Score tracking
 
-Member 2 MacID: aslamm14
-Member 2 StudentID: 400449291
+🖥️ Console-based (or SFML/OpenGL for graphical version)
+
+Key OOP Concepts Used:
+Classes for Snake, Food, and Game Manager
+
+Encapsulation for game state management
+
+Inheritance (if extending to GUI)
+
+Polymorphism (for potential multi-mode gameplay)
